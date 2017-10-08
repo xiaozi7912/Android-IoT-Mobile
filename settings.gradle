@@ -1,0 +1,2 @@
+include ':app', ':module-framework'
+project(':module-framework').projectDir = new File('xiaoz-framework/module-framework')
